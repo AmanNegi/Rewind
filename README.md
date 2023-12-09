@@ -11,9 +11,14 @@ Build Using **Flutter(v1.20.0)**
 
 ## Screenshots
 
-![](./screenshots/1.png)
-![](./screenshots/2.png)
-![](./screenshots/3.png)
-![](./screenshots/4.png)
-
+ <table>
+  <tr>
+    <td><img src="./screenshots/1.png" alt="1" width = 360px></td>
+    <td><img src="./screenshots/2.png" alt="2" width = 360px></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/3.png" alt="3" width = 360px></td>
+    <td><img src="./screenshots/4.png" alt="4" width = 360px></td>
+  </tr>
+</table>
 
